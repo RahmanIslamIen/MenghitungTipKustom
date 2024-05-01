@@ -1,4 +1,5 @@
-# latihan ke 4 | projek aplikasi
+# Menghitung Tip Kustom
+## RAHMAN ISLAM 411211069 - TEHNIK INFORMATIKA - TANJUNG DUREN - UNIVERSITAS DIAN NUSANTARA
 berikut ini adalah hasil akhir nya
 
 <table>
